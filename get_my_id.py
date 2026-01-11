@@ -1,7 +1,5 @@
-"""
-Простий скрипт для отримання вашого Telegram User ID
-Запустіть цей скрипт і надішліть будь-яке повідомлення боту
-"""
+
+
 import os
 import asyncio
 from dotenv import load_dotenv
